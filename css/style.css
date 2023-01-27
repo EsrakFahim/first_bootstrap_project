@@ -14,3 +14,7 @@ li span{
 .bg_color span , .bg_color .fa-circle-check{
     color: #f0f8ff;
 }
+.fa-copyright{
+    color: #f0f8ff;
+    font-size: 16px;
+}
